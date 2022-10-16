@@ -117,15 +117,3 @@ To start contributing, follow the below guidelines:
 **9.** On Github, create a pull request from your feature branch. Always make the PR against the dev branch! Make sure to summarize your changes you made, and if there's anything specific you want reviewed or tested, note that in the PR.
 
 **10.** When approved, your branch will be merged into master and you're done! Thanks for contributing! :)
-
-## Author
-
-**Rohit Kumar**
-
-- [github/RohitKumar-200](https://github.com/RohitKumar-200)
-
-## Copyright and License
-
-Copyright (c) 2022, Bookshlf.
-
-Bookshlf source code is licensed under the [MIT License](https://github.com/Bookshlf-in/Backend/blob/main/LICENSE).
